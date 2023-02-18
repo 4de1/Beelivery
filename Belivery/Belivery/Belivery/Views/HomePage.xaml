@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Belivery.Views.HomePage"
+             xmlns:vm="clr-namespace:Belivery.ViewModels"
+              Title="Главная"
+             IconImageSource="menu.png"
+             >
+    <Shell.TitleView>
+        <Image Source="logoM.png"/>
+    </Shell.TitleView>
+    
+    <NavigationPage.TitleView>
+        <StackLayout Orientation="Horizontal ">
+            <Image Source="xamarin_logo.png" 
+                   WidthRequest="40" 
+                   HeightRequest="40"/>
+            <Label Text="Belivery" VerticalTextAlignment="Center"/>
+        </StackLayout>
+    </NavigationPage.TitleView>
+    <ContentPage.BindingContext>
+        <vm:HomeViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="Accent">#FF9D18</Color>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <StackLayout Margin="15">
+        <Label  Text="Добро пожаловать!"  FontFamily="Times New Roman" FontSize="34" FontAttributes="Bold" Margin="10,0,0,0"/>
+        
+        <ScrollView>
+            <StackLayout>
+        <ScrollView  Orientation="Horizontal">
+            <StackLayout   Orientation="Horizontal" Margin="0" Padding="0,0,0,-370" >
+                <ImageButton HeightRequest="200" Command="{Binding SaleCommand}"   Source="menu11.png" CornerRadius="20" BackgroundColor="#D2C8C8" Margin="0,0,0,400" />
+                <ImageButton HeightRequest="200" Command="{Binding SaleCommand}"   Source="menu12.png" CornerRadius="20" BackgroundColor="#D2C8C8" Margin="0,0,0,400" />
+                <ImageButton HeightRequest="200" Command="{Binding SaleCommand}"   Source="menu13.png" CornerRadius="20" BackgroundColor="#D2C8C8" Margin="0,0,0,400" />
+                    </StackLayout>
+        </ScrollView>
+                <StackLayout>
+                    <Label  Text="Акции" TextColor="Black" FontSize="34" FontAttributes="Bold" Margin="15,0,0,0"/>
+                    <ScrollView VerticalOptions="Start" Orientation="Horizontal">
+
+                        <StackLayout  Orientation="Horizontal" Padding="0,0,0,-370" >
+                            <ImageButton HeightRequest="200" Command="{Binding SaleCommand}"   Source="menu21.png" CornerRadius="20" BackgroundColor="#D2C8C8" Margin="0,0,0,400" BorderColor="#F6F1F1" BorderWidth="2" />
+                            <ImageButton HeightRequest="200" Command="{Binding SaleCommand}"   Source="menu22.png" CornerRadius="20" BackgroundColor="#D2C8C8" Margin="0,0,0,400" BorderColor="#F6F1F1" BorderWidth="2"/>
+                            <ImageButton HeightRequest="200" Command="{Binding SaleCommand}"   Source="menu23.png" CornerRadius="20" BackgroundColor="#D2C8C8" Margin="0,0,0,400" BorderColor="#F6F1F1" BorderWidth="2"/>
+                        </StackLayout>
+                    </ScrollView>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </StackLayout>
+
+    <!--<ScrollView Orientation="Horizontal">
+            <StackLayout Orientation="Horizontal" Padding="30,2,30,24" Spacing="10" >
+            <Label  Text="Добро пожаловать!"  FontFamily="Times New Roman" FontSize="34" FontAttributes="Bold"/>
+            <Label  Text="Акции" TextColor="Black" FontSize="34" FontAttributes="Bold"/>
+                
+            <ImageButton   HeightRequest="200" Command="{Binding SaleCommand}"   Source="menu1.png" CornerRadius="20" BackgroundColor="#D2C8C8" Margin="0,0,0,400" ></ImageButton>
+            <ImageButton  HeightRequest="200" Command="{Binding SaleCommand}"   Source="menu1.png" CornerRadius="20" BackgroundColor="#D2C8C8" Margin="0,0,0,400"></ImageButton>
+
+        </StackLayout>
+        
+        
+
+        
+    </ScrollView>-->
+        
+    
+
+</ContentPage>

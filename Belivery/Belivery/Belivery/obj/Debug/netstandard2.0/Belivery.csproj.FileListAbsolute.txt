@@ -1,0 +1,47 @@
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\bin\Debug\netstandard2.0\Belivery.deps.json
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\bin\Debug\netstandard2.0\Belivery.dll
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\bin\Debug\netstandard2.0\Belivery.pdb
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.csproj.AssemblyReference.cache
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.AssemblyInfoInputs.cache
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.AssemblyInfo.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.csproj.CoreCompileInputs.cache
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.dll
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\refint\Belivery.dll
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.pdb
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\ref\Belivery.dll
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\UserPage.xaml.g.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\BasketPage.xaml.g.cs
+C:\Users\dekop\source\repos\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\Support.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\bin\Debug\netstandard2.0\Belivery.deps.json
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\bin\Debug\netstandard2.0\Belivery.dll
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\bin\Debug\netstandard2.0\Belivery.pdb
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.csproj.AssemblyReference.cache
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\BasketPage.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\Support.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\UserPage.xaml.g.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.AssemblyInfoInputs.cache
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.AssemblyInfo.cs
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.csproj.CoreCompileInputs.cache
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.dll
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\refint\Belivery.dll
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Belivery.pdb
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\ref\Belivery.dll
+C:\Users\dekop\OneDrive\Рабочий стол\Belivery\Belivery\Belivery\Belivery\obj\Debug\netstandard2.0\Views\SalePage.xaml.g.cs

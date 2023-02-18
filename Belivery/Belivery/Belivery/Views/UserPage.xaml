@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Belivery.Views.UserPage"
+             Title="Профиль"
+             xmlns:local="clr-namespace:Belivery.ViewModels"  
+             xmlns:model="clr-namespace:Belivery.Models"  
+             x:Name="BrowseItemsPage">
+    <Shell.TitleView>
+        <Image Source="logoM.png" />
+    </Shell.TitleView>
+    <Grid Margin="20">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+
+
+       <!--<Button Command="{Binding AddItemCommand}"
+                Text="Войти"
+            CornerRadius="10"
+            BackgroundColor="{StaticResource Primary}" 
+            TextColor="Black" />-->
+        <Image x:Name="Image11"  Source="ava.png " Grid.Column="0" Grid.Row="0" Grid.ColumnSpan="2" Grid.RowSpan="2" />
+        <Button
+            Clicked = "Button_Clicked"
+            Text="Изменить фото"
+            CornerRadius="10"
+            BackgroundColor="#D8C3C4" 
+            TextColor="Black" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2"
+        />
+        <Frame  Margin="5,10" Padding="0"
+                   CornerRadius="11" Grid.Column="2" Grid.Row="0"  Grid.ColumnSpan="3" >
+            <Entry FontSize="Subtitle" Margin="5, 0"
+                       TextColor="#000000" HorizontalTextAlignment="Center"
+                       Text="{Binding UserName, Mode=TwoWay}" />
+            
+        </Frame>
+        <Frame  Margin="5,10" Padding="0"
+                   CornerRadius="11" Grid.Column="2" Grid.Row="1"  Grid.ColumnSpan="3" >
+            <Entry FontSize="Subtitle" Margin="5, 0"
+                       TextColor="#000000" HorizontalTextAlignment="Center"
+                       Text="{Binding UserName}" />
+
+        </Frame>
+
+
+        <!--<Button 
+            Text="Регистрация"
+            CornerRadius="10"
+            BackgroundColor="{StaticResource Primary}" 
+            TextColor="Black" />-->
+
+        <Button  Command="{Binding SupportCommand}"
+                Text="Служба поддержки"
+            CornerRadius="10"
+            BackgroundColor="{StaticResource Primary1}" 
+            TextColor="Black" Grid.Column="0" Grid.Row="9" Grid.ColumnSpan="5" BorderWidth="2" BorderColor="#F4E9E9"/>
+
+        <Button 
+            Text="О приложении"
+            CornerRadius="10"
+            BackgroundColor="{StaticResource Primary1}" 
+            TextColor="Black" Grid.Column="0" Grid.Row="10" Grid.ColumnSpan="5" BorderWidth="2" BorderColor="#F4E9E9" />
+
+    </Grid>
+</ContentPage>

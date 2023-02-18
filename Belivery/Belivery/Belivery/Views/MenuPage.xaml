@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Belivery.Views.MenuPage"
+             Title="Меню"
+             >
+    <Shell.TitleView>
+        <Image Source="logoM.png"/>
+    </Shell.TitleView>
+    <ScrollView>
+        <StackLayout Margin="20">
+            <Label Text="Бургеры" FontSize="28"/>
+            <ImageButton Source="menu1.png" CornerRadius="30" x:Name="Button1" Clicked="Button_Clicked"    />
+            <Label Text="199 руб." FontSize="20"/>
+            <ImageButton Source="menu2.png" CornerRadius="30" x:Name="Button2" Clicked="Button_Clicked"  />
+            <Label Text="159 руб." FontSize="20"/>
+            <Label Text="Супы" FontSize="28"/>
+            <ImageButton Source="menu3.png" CornerRadius="30"  x:Name="Button3" Clicked="Button_Clicked"   />
+            <Label Text="329 руб." FontSize="20"/>
+            <ImageButton Source="menu4.jpg" CornerRadius="30" x:Name="Button4" Clicked="Button_Clicked"  />
+            <Label Text="299 руб." FontSize="20"/>
+            <Label Text="Напитки" FontSize="28"/>
+            <ImageButton Source="menu5.jpg" CornerRadius="30"  x:Name="Button5" Clicked="Button_Clicked"   />
+            <Label Text="59 руб." FontSize="20"/>
+        </StackLayout>
+        </ScrollView>
+</ContentPage>
